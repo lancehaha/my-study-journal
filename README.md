@@ -1,4 +1,4 @@
-![Image text][(my_study.png）](https://github.com/lancehaha/my-study-journal/blob/be0a17e8a2a6be7e956d3db3d878b1a6c9540e5b/my_study.png)
+![Image text](https://github.com/lancehaha/my-study-journal/blob/be0a17e8a2a6be7e956d3db3d878b1a6c9540e5b/my_study.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
